@@ -19,7 +19,7 @@ body {
   justify-content: center;
   flex-direction: column;
   flex: 1;
-  background-image: url('images/background.jpg');
+  background-image: url('../images/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -86,11 +86,11 @@ body {
 }
 
 .social .github {
-  background-image: url('images/github.png');
+  background-image: url('../images/github.png');
 }
 
 .social .linkedin {
-  background-image: url('images/linkedin.png');
+  background-image: url('../images/linkedin.png');
 }
 
 .social .social-item:hover {
